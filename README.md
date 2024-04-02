@@ -1,6 +1,7 @@
 # Introduccion-a-la-Nube
 Curso de Introducción a la Nube
-Nombre del curso: Curso de Introducción a la Nube
+Nombre del curso: 
+Curso de Introducción a la Nube
 
 Decano: Sebastián Delmont
 
